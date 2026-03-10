@@ -102,3 +102,16 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# 自动分类插件配置
+auto_category:
+  enable: true
+  multiple: true
+  depth:
+# auto_category:
+#   enable: true
+#   depth: 2 # 目录深度
+#   categories:
+#     - 技术
+#     - 生活
+#     - 随笔
