@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: MayDay Land
+title: MayDay
 subtitle: ''
 description: ''
 keywords:
 author: Dope
-language: zh
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
